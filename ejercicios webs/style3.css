@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(235, 235, 235);
+    
+}
+
+.box{
+    background-color: rgb(226, 226, 226);
+    width: 350px;
+    height: auto;
+    align-content: center;
+    margin: auto;
+    padding: 20px;
+
+}
+
+.titulo{
+    font-weight: bold;
+    font-family: sans-serif;
+    color: rgb(92, 92, 92);
+}
+
+.parrafo{
+    margin-top: 20px;
+    font-family: sans-serif;
+    color: rgb(104, 104, 104);
+    line-height: 25px;
+}
